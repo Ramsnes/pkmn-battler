@@ -1,0 +1,12 @@
+.abilityBox {
+  flex-direction: column;
+  border: 2px solid $bannerClr;
+  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
+}
+
+.topAbilities,
+.botAbilities {
+  display: flex;
+  flex: column;
+  align-items: center;
+}
